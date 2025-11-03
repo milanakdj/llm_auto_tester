@@ -10,6 +10,6 @@ Hello world
 Output:
 olleH dlrow
 
-**Constraints:**
+### Constraints:
 - The sentence may contain letters, digits, and punctuation.
 - Words are separated by spaces.
