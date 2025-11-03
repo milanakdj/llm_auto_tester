@@ -1,6 +1,6 @@
 # Problem: Reverse Words in a Sentence
 
-Write a function `reverse_words(sentence: str) -> str` that takes a sentence and returns it
+Write a function "reverse_words(sentence: str) -> str" that takes a sentence and returns it
 with each word reversed, but the order of words remains the same.
 
 ### Example
